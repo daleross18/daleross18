@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **Dale Ross** [LinkedIn](https://www.linkedin.com/in/dale-ross-wesleyan/)
+- Hi, I’m **Dale Ross** [LinkedIn](https://www.linkedin.com/in/dale-ross-wesleyan/)
 - I am an aspiring software engineer who currently is a student at Wesleyan University 
 - **Major**: Computer Science and Government **Minor**: Data Analysis.
 - I am passionate about programming and problem-solving.
