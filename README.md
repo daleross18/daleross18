@@ -11,7 +11,7 @@
    Worked at Wesleyan Media Projects Delta lab as a software Developer and Data Analyst Last Spring 
    Used Unity Engine and C# to design gameplay, for a physics-based video game played by 100+ 2nd-5th graders. \
 **Summer 2020** :
-   Remote Software Engineering and Data Analytics Intern at ESPN. \
+   Remote Software Engineering and Data Analytics Intern at ESPN. 
    
 **Competencies** :
 Programming Languages: Python, C#, R , SML, SQL, C, Javascript, Solidity, SAS, MIPS Assembly, HTML
