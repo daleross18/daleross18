@@ -1,6 +1,6 @@
 [LinkedIn](https://www.linkedin.com/in/dale-ross-wesleyan/)
 
-Software engineer who currently is working at Niantic, on the 8th Wall team
+Software engineer @ Niantic
 - Wesleyan University 2022
 - **Majors**: Computer Science and Government 
 - **Minor**: Data Analysis
