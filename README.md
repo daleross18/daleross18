@@ -1,6 +1,6 @@
 [LinkedIn](https://www.linkedin.com/in/dale-ross-wesleyan/)
 
-Software engineer @ Niantic
+Software engineer @ Niantic Spatial | 8th Wall (Formally Niantic)
 - Wesleyan University 2022
 - **Majors**: Computer Science and Government 
 - **Minor**: Data Analysis
